@@ -1,0 +1,15 @@
+{
+  "name": "learn-git",
+  "version": "0.0.1",
+  "description": "\"Learn GIT\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "gitcli"
+  ],
+  "author": "WisdomPathLK",
+  "license": "ISC"
+}
